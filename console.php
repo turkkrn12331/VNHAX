@@ -1,0 +1,1 @@
+https://github.com/turkkrn12331/VNHAX/raw/main/internal.dll
